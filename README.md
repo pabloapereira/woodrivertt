@@ -5,14 +5,14 @@ https://utfpr-gp.github.io/vixe-quebrou-js/.
 
 Caixas de Diálogo
 
-- [ ] prompt
-- [ ] alert
-- [ ] confirm
+- [x] promp
+- [x] alert
+- [x] confirmar
 
 Temporizadores
 
 - [ ] setInterval
-- [ ] setTimeout
+- [x] setTimeout
 
 Funções
 
