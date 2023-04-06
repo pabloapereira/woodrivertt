@@ -1,0 +1,32 @@
+@media (min-width: 700px), handheld and (orientation: landscape) {
+
+    html{
+        margin: 3em, 0em;
+        align-items: center;
+    }
+
+    .site{
+        display: flex;
+        flex-direction: row;
+    }
+
+    img{
+        width: 45%;
+        margin-left: 1.5em;
+    }
+
+    img2{
+        width: 50%;
+        margin-right: 0em;
+    }
+
+    footer{
+        margin-bottom: 1%;
+    }
+}
+
+@media (min-width: 800px), handheld and (orientation: landscape){
+    html{
+        background-color: 
+    }
+}

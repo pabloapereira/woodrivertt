@@ -1,0 +1,66 @@
+/* Tabela de medidas de telas (breakpoints ou grid tiers) do Bootstrap 5
+https://getbootstrap.com/docs/5.2/layout/breakpoints/
+
+Breakpoint			Abrev.	Dimensão	Descrição
+Extra small			xs		<576px		Smartphone na vertical
+Small				sm		≥576px		Smartphone na horizontal
+Medium				md		≥768px		Tablet
+Large				lg		≥992px		Desktop
+Extra large			xl		≥1200px		Desktop largo
+Extra extra large	xxl		≥1400px		Desktop muito largo (comum)
+*/
+
+@media (min-width: 768px) and (max-width: 992px){
+    nav{
+        font-size: 25px;
+        padding: 4em;
+    }
+
+    img{
+        width: 90%;
+    }
+
+    footer{
+        font-size: 29px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1200px){
+    img{
+        width: 70%;
+    }
+
+     .fotos img{
+        display: flex;
+        width: 50%;
+        margin-left: 1em;
+    }
+
+    h3{
+        font-size: 40px;
+        position: relative;
+        top: 4em;
+        left: 6em;
+    }
+
+    p {
+        position: relative;
+        bottom: 9.3em;
+        left: 6.8em;
+    }
+}
+
+@media (min-width: 1200px){
+    nav{
+        font-size: 27px;
+        padding: 5%;
+    }
+
+    img {
+        width: 50%;
+    }
+
+    .cores img {
+        margin-left: 0.5%;
+    }
+}
