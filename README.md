@@ -3,6 +3,8 @@
 GitHub Pages: 
 https://utfpr-gp.github.io/vixe-quebrou-js/.
 
+wireframe: https://www.figma.com/proto/mBZYBy1XOSJ60gvnmXnDzO/Untitled?node-id=11-38&scaling=scale-down&page-id=0%3A1&starting-point-node-id=34%3A3&show-proto-sidebar=1
+
 Caixas de Diálogo
 
 - [x] promp
