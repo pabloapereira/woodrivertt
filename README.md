@@ -20,7 +20,7 @@ Funções
 
 - [ ] Função anônima com argumento
 - [x] Função anônima sem argumento
-- [x ] Função anônima com retorn
+- [x] Função anônima com retorn
 - [ ] Função auto-executável
 - [x] Função com nome
 - [ ] Função aninhada/local - declarar uma função dentro de outra
