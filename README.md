@@ -29,7 +29,7 @@ Funções
 
 Eventos
 
-- [ ] Evento de carregamento do documento - onload
+- [x] Evento de carregamento do documento - onload
 - [ ] Evento de movimento do mouse
 - [ ] Evento de teclado - usar charCode ou keyCode
 - [ ] Eventos de formulário - onfocus e onblur
@@ -38,8 +38,8 @@ Eventos
 
 Acesso aos elementos DOM do HTML
 
-- [ ] Via referência DOM pelo id do elemento HTML
-- [ ] Via getElementByID()
+- [x] Via referência DOM pelo id do elemexnto HTML
+- [x] Via getElementByID()
 - [ ] Via getElementsByName()
 - [ ] Via getElementsByTagName()
 - [ ] Via seletores CSS usados na função querySelector() ou querySelectorAll()
