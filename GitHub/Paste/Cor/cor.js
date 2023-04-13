@@ -10,4 +10,4 @@ function corPreco() {
     }
 }
 corPreco();
-//Deu!!!
+//Deu!!?
