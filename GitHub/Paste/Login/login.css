@@ -43,7 +43,9 @@ h1 {
 
 button{
     font-size: 1em;
-    width: 100%;
+    width: 50%;
     height: 40px;
     background-color: rgb(124, 225, 76);
+    margin-top: 1.5em;
+    border-radius: 10px;
 }

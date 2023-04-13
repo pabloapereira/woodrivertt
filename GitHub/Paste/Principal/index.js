@@ -17,12 +17,15 @@ alert(alo())
 //}
 
 var validaIdade = function(idade){
-    return idade < 18;
+  return idade < 18
 }
 
-
-if (validaIdade(idade)) {
-  alert("Pesa autorização dos responaseis antes de realizar uma compra");
-} else {
-  alert("Menor de idade");
+function validarIdade(idade, validaIdade) {
+  if (validaIdade(idade)) {
+    alert("Pesa autorização dos responaseis antes de realizar uma compra")
+  } else {
+    alert("Boas compras")
+  }
 }
+
+validarIdade(idade, validaIdade)
