@@ -9,5 +9,4 @@ function corPreco() {
         p[i].style.color = "red";
     }
 }
-
 corPreco();

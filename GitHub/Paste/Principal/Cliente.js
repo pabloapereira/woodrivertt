@@ -1,8 +1,10 @@
-let idade = window.prompt("qual sua idade")
+class Cliente{
+    constructor(nome) {
+        this.nome = nome;
+    }
 
-
-function Cliente(idade) {
-    this.idade = idade;    
+    andar() { 
+        console.log('estou andando')
+    }
 }
-
-const cliente1 = new Cliente(idade); 
+const Cliente1 = new Cliente();
